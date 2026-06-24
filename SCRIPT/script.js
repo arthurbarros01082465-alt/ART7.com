@@ -1212,7 +1212,7 @@ const series = [
     tipo: "Série",
 },
 {
-    titulo:"Reencarnação Nobre: Nascido Abençoado, Então Vou Obter o Poder Supremo",
+    titulo:"Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power ",
     imagem:"https://media.themoviedb.org/t/p/w300_and_h450_face/zaZpbXyvH4M2Y6ICDuMtvVQyHwd.jpg",
     descricao:"Na sua vida passada, Noa era apenas um jovem adulto de uma vila comum, alguém sem nada digno de nota. Porém, tudo muda quando ele renasce como o 13º príncipe de um império! Sua tela de status revela uma habilidade única: quanto mais pessoas estiverem sob seu comando, mais forte ele se torna. Em busca do poder absoluto, Noa não medirá esforços para garantir que aqueles que o servem permaneçam ao seu lado para sempre.",
     temporadas:"1-temporada",
@@ -1222,7 +1222,7 @@ const series = [
     tipo: "Anime",
 },
 {
-    titulo:"Sou um Nobre à Beira da Ruína, então Posso Tentar Dominar a Magia",
+    titulo:"I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic ",
     imagem:"https://media.themoviedb.org/t/p/w300_and_h450_face/7yYvOotNSvM8Q9le7uDfzX2h9fb.jpg",
     descricao:"Enquanto curte inocentemente seu tempo livre após o trabalho, a vida deste homem mudará para sempre. Ele acorda no corpo de Liam Hamilton, o filho mais novo de uma família nobre à beira do colapso. Em meio ao caos, Liam percebe que finalmente tem tempo para aprender e praticar magia. E, logo de cara, sua vida dá uma reviravolta ainda maior! Será que Liam conseguirá dominar a magia e salvar sua nova e nobre família?",
     temporadas:"1-temporada",
