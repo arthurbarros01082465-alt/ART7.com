@@ -1210,7 +1210,17 @@ const series = [
     categoria: ["Suspense", "Drama", "Live Action"],
     link: "https://rrrv.lol/tvshows/round-6/",
     tipo: "Série",
-}
+},
+{
+    titulo:"Reencarnação Nobre: Nascido Abençoado, Então Vou Obter o Poder Supremo",
+    imagem:"https://media.themoviedb.org/t/p/w300_and_h450_face/zaZpbXyvH4M2Y6ICDuMtvVQyHwd.jpg",
+    descricao:"Na sua vida passada, Noa era apenas um jovem adulto de uma vila comum, alguém sem nada digno de nota. Porém, tudo muda quando ele renasce como o 13º príncipe de um império! Sua tela de status revela uma habilidade única: quanto mais pessoas estiverem sob seu comando, mais forte ele se torna. Em busca do poder absoluto, Noa não medirá esforços para garantir que aqueles que o servem permaneçam ao seu lado para sempre.",
+    temporadas:"1-temporada",
+    classificacao:"14",
+    categoria: ["Ação, Aventura, Fantasia"],
+    link: "https://animesonline.io/anime/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru/",
+    tipo: "Anime",
+},
 
 ];
 
