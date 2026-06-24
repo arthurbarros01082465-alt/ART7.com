@@ -620,3 +620,199 @@ header {
 
     min-height: 50px;
 }
+
+/* =====================================
+   RESPONSIVIDADE ART7
+===================================== */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Tablets */
+@media (max-width: 992px) {
+
+    .logo-art7 {
+        font-size: 2.5rem;
+    }
+
+    #campobusca {
+        width: 100% !important;
+    }
+
+    .card-filme img {
+        height: 360px;
+    }
+
+}
+
+/* Celulares */
+@media (max-width: 768px) {
+
+    .logo-art7 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    h3 {
+        font-size: 1.1rem;
+    }
+
+    /* Busca */
+
+    .d-flex.gap-2.mt-3.justify-content-center {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #campobusca {
+        width: 100% !important;
+    }
+
+    /* Botões superiores */
+
+    .d-flex.justify-content-between.mt-3 {
+
+        display: flex !important;
+        flex-wrap: wrap !important;
+
+        justify-content: center !important;
+
+        gap: 10px;
+    }
+
+    .d-flex.justify-content-between.mt-3 .btn {
+
+        width: calc(50% - 5px);
+    }
+
+    /* Filtros */
+
+    .filtros {
+        text-align: center;
+    }
+
+    .filtros .btn {
+        margin: 4px;
+    }
+
+    /* Categorias */
+
+    .categorias-container {
+
+        display: flex;
+
+        overflow-x: auto;
+
+        gap: 8px;
+
+        padding-bottom: 10px;
+    }
+
+    .categorias-container .btn {
+
+        white-space: nowrap;
+
+        flex-shrink: 0;
+    }
+
+    /* Contador e ordenação */
+
+    .d-flex.justify-content-between.align-items-center.mb-4 {
+
+        flex-direction: column;
+
+        gap: 15px;
+
+        text-align: center;
+    }
+
+    #ordenacao {
+
+        width: 100% !important;
+    }
+
+    /* Cards */
+
+    .card-filme img {
+
+        height: 320px;
+    }
+
+    .card-body h3 {
+
+        font-size: 1.1rem;
+    }
+
+    .card-body p {
+
+        font-size: .9rem;
+    }
+
+    /* Continue Assistindo */
+
+    .card-continuar {
+
+        flex-direction: column;
+
+        text-align: center;
+    }
+
+    .card-continuar img {
+
+        width: 100%;
+
+        max-width: 250px;
+
+        height: auto;
+    }
+
+    /* Login */
+
+    .auth-card,
+    #areaAutenticacao {
+
+        width: 100%;
+
+        padding: 15px;
+    }
+
+}
+
+/* Celulares pequenos */
+
+@media (max-width: 480px) {
+
+    .logo-art7 {
+        font-size: 1.6rem;
+    }
+
+    h2 {
+        font-size: 1rem;
+    }
+
+    .d-flex.justify-content-between.mt-3 .btn {
+
+        width: 100%;
+    }
+
+    .btn {
+
+        font-size: .9rem;
+    }
+
+    .card-filme img {
+
+        height: 280px;
+    }
+
+    .footer-art7 {
+
+        font-size: .85rem;
+    }
+
+}
