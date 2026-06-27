@@ -1240,6 +1240,16 @@ const series = [
     categoria: ["Fantasia", "Ação", "Comédia"],
     link: "https://animesonline.io/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/",
     tipo: "Anime",
+},
+{
+    titulo: "Fuguushoku Kanteishi ga Jitsu wa Saikyou Datta",
+    imagem: "https://i1.wp.com/animesonline.io/wp-content/uploads/2026/06/1782304893-1477-146293l.jpg",
+    descricao: "é um anime de fantasia que acompanha a jornada de Ein, um jovem que nasceu com a classe de Avaliador, considerada inútil e fraca pela sociedade",
+    temporadas: "1-temporada",
+    classificacao: "14",
+    categoria: ["Ação", "Fantasia", "Aventura"],
+    link: "https://animesonline.io/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/",
+    tipo: "Anime",
 }
 
 ];
