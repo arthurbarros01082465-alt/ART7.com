@@ -1231,6 +1231,16 @@ const series = [
     link: "https://animesonline.io/anime/botsuraku-yotei-no-kizoku-dakedo-hima-datta-kara-mahou-wo-kiwametemita/",
     tipo: "Anime",
 },
+{
+    titulo: "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage ",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+    descricao: "O Grande Sábio Ephtal morre em desespero após falhar em alcançar o ápice da magia — 400 anos depois, ele renasce com todas as suas memórias e poderes intactos. A nesse mundo a magia decaiu e feitiços ancestrais são tratados como milagres. Esta é a sua nova chance de alcançar seu objetivo.",
+    temporadas: "1-temporada",
+    classificacao: "14",
+    categoria: ["Fantasia", "Ação", "Comédia"],
+    link: "https://animesonline.io/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/",
+    tipo: "Anime",
+}
 
 ];
 
