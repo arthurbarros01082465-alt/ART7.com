@@ -1250,7 +1250,17 @@ const series = [
     categoria: ["Ação", "Fantasia", "Aventura"],
     link: "https://animesonline.io/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/",
     tipo: "Anime",
-}
+},
+{
+    titulo: "",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/51CKhQNOvH3cxjljRize0oPfPyR.jpg",
+    descricao: "A confeiteira de 9 anos, Mille Morteln, é a herdeira de seu pai e a reencarnação de uma confeiteira insatisfeita. Embora ela sonhe com uma terra cheia de doces, há muito o que fazer primeiro! Desde aprender a lutar, dominar seus novos talentos mágicos, fazer o seu melhor para defender sua vila dos bandidos, e ainda assim tudo o que ela realmente quer fazer é assar a torta de maçã perfeita… A confeiteira Mille Morteln tem muito trabalho fazer adiante em sua Doce Reencarnação.",
+    temporadas: "1-temporada",
+    classificacao: "12",
+    categoria: ["Aventura", "Ação", "Comédia"],
+    link: "https://animesdigital.org/anime/a/okashi-na-tensei-saikyou-patishie-isekai-kourin",
+    tipo: "Anime",
+},
 
 ];
 
