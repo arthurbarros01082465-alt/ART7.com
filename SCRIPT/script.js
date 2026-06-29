@@ -1353,7 +1353,7 @@ const series = [
 },
 {
     titulo: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
-    imagem: "",
+    imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/8AnfDEm1ARkde8ZNIUwuvXNTycN.jpg",
     descricao: "O assassino número um do mundo foi reencarnou como o filho mais velho de uma família de assassinos aristocratas. Em troca de reencarnar em outro mundo, uma deusa lhe impôs uma condição. Mate o Herói que pela profecia destruirá o mundo. Esta deveria ser a missão em sua nova vida. O efeito sinérgico do vasto conhecimento e experiência que ele adquiriu e que tornou possível todo tipo de assassinatos no mundo moderno, e as técnicas secretas e mágicas da família de assassinos mais poderosa do mundo da fantasia o transformam no maior assassino de todos os tempos.",
     temporadas: "1-Temporada",
     classificacao: "16",
